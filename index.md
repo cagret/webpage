@@ -16,39 +16,46 @@ genomes derived from sequencing, upstream or downstream of classification into f
 - 2020 [Redoak: a reference-free and alignment-free structure for indexing a collection of similar genomes](https://www.biorxiv.org/content/early/2020/12/21/2020.12.19.423583),C.Agret, A.Chateau, G.Droc, G.Sarah, A.Mancheron,  M.Ruiz.
 
 
-##GenomeHarvest project:
+## GenomeHarvest project:
 - 2019:  When RedOak™ draws trees, https://www.genomeharvest.fr/results/seminars
 - 2019: Poster: Resources to manage Rice Big Genomics Data
 - 2018: Presentation of a tool under development allowing the indexing of a large collection of
 unassembled genomes, https://www.genomeharvest.fr/results/seminars
 - 2017: [Pangenome Indexing Structure applied to rice](https://www.genomeharvest.fr/results/seminars)
-##SeqBIM: working group common to the GDR Molecular Bioinformatics (BIM) at the GDR Informatique
+
+
+## SeqBIM: working group common to the GDR Molecular Bioinformatics (BIM) at the GDR Informatique
 CNRS Mathematics (IM):
 - 2018: SeqBio: Development of indexing compressed structure for analyzing a large collection of simi-
 lar genomes: application to rice, URL: http://bioinfo.univ-rouen.fr/seqbio2018/proceedings.
 pdf
 - 2017: SeqBio: Compressed structure for analyzing a collection of similar genomes: application to rice,
 URL: https://bioinfo.cristal.univ-lille.fr/seqbio2017/seqbio_abstracts.pdf
-##JOBIM: Biology, Computer Science and Mathematics Open Days, the conference of the French Society
+
+
+## JOBIM: Biology, Computer Science and Mathematics Open Days, the conference of the French Society
 of Bioinformatics:
 - 2017: Poster: Development of indexing compressed structure for analyzing a collection of similar
 genomes: application to rice.
 - 2015: Poster: Use of Illumina sequencing for accessing viral genomes Cocoa swollen shoot virus
 (CSSV).
 
+
 # Journal Publications
 - 2018 [Next generation sequencing elucidates cocoa badna virus diversity and reveals the existence of more than ten viral species.](https://linkinghub.elsevier.com/retrieve/pii/S0168170217306743), E.Muller, S.Ravel, C.Agret, F.Abrokwah, H.Dzahini-Obiatey, I.Galyuon, K.Kouakou, E.C.Jeyaseelan,
 J.Allainguillaume, A.Wetten.
+
+
 # Communications
-
 ## Invited talks
-
 - 2020 TODO
 - 2017 Machine learning science popularization of supervised and unsupervised learning, MAB team seminar, LIRMM Montpellier (France)
 - 2017 TODO, Cirad, Montpellier (France)
 
+
 ## Conferences
 - 2020 [Todo _k_-mer index](todo.todo)
+
 
 ## Other
 - 2020 Co-organization of the Open Days of Biology, Computer Science and Mathematics Congress of 30
@@ -68,14 +75,14 @@ The purpose of this association is to create a directory of alumni to allow inte
 nationally, facilitate the organization of scientific events such as MODs, and facilitate the exchange of
 course support between teachers and students. (AsTICo)[http://www.astico.fr/]
 
+
 # Supervision
-- 2020-2021 : Ali Cuhadar (M2 internship), subject: Maize pangenomics study.
-- 2019-2020 : Nastasia Mijovic (M2 internship),subject: Comparison of a large collection of rice genomes using Formal Concept Analysis (FCA) and Data mining.
-- 2017-2018 : Laureline Djardin Bretones (M2 internship),subject: Study of succinct structures for the compression of binary vectors.
+- 2020-2021 : A.Cuhadar (M2 internship), subject: Maize pangenomics study.
+- 2019-2020 : N.Mijovic (M2 internship),subject: Comparison of a large collection of rice genomes using Formal Concept Analysis (FCA) and Data mining.
+- 2017-2018 : L.Djardin Bretones (M1 internship),subject: Study of succinct structures for the compression of binary vectors.
 
 
 # Teaching
-
 <table>
   <tr>
     <th>Year</th><th>Level</th><th>Topic</th>
