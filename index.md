@@ -7,8 +7,10 @@ After a bachelor's degree in computer science and a master's degree in Science a
 Bioinformatics, Knowledge, Data at the University of Montpellier, I did my PhD within
 of the GAIA doctoral school (584), between [Cirad](https://www.cirad.fr/en/) and [LIRMM](https://www.lirmm.fr/). My thesis focuses on the development of a
 _k_-mers indexing data structure intended to support the analysis of hundreds or even thousands of similar genomes. 
+
 This general purpose data structure is intended to store information about many close genomes, but can also be adapted to store information on collections
 genomes derived from sequencing, upstream or downstream of classification into families of related species.
+
 ([detailed cv](cv.md)).
 
 # Ongoing work
