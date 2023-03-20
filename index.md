@@ -5,13 +5,13 @@ My work focuses on **methods and data structures** in **sequence bioinformatics*
 
 After a bachelor's degree in computer science and a master's degree in Science and Digital for Health,
 Bioinformatics, Knowledge, Data at the University of Montpellier, I did my PhD within
-of the GAIA doctoral school (584), between [Cirad](https://www.cirad.fr/en/) and [LIRMM](https://www.lirmm.fr/). My thesis focuses on the development of a
+of the GAIA doctoral school (584), between [Cirad](https://www.cirad.fr/en/){:target="_blank"} and [LIRMM](https://www.lirmm.fr/){:target="_blank"}. My thesis focuses on the development of a
 _k_-mers indexing data structure intended to support the analysis of hundreds or even thousands of similar genomes. 
 
 This general purpose data structure is intended to store information about many close genomes, but can also be adapted to store information on collections
 genomes derived from sequencing, upstream or downstream of classification into families of related species.
 
-([detailed cv](cv.md)).
+([detailed cv](cv.md){:target="_blank"}).
 
 # Ongoing work
 - 2021 [Toward optimal fingerprint indexing for large scale genomics](https://www.biorxiv.org/content/biorxiv/early/2021/11/05/2021.11.04.467355.full.pdf), C.Agret, B.Cazaux, A.Limasset 
