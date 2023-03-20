@@ -14,7 +14,7 @@ genomes derived from sequencing, upstream or downstream of classification into f
 ([detailed cv](cv.md){:target="_blank"}).
 
 # Ongoing work
-- 2021 [Toward optimal fingerprint indexing for large scale genomics](https://www.biorxiv.org/content/biorxiv/early/2021/11/05/2021.11.04.467355.full.pdf), C.Agret, B.Cazaux, A.Limasset 
+- 2021 [Toward optimal fingerprint indexing for large scale genomics](https://www.biorxiv.org/content/biorxiv/early/2021/11/05/2021.11.04.467355.full.pdf){:target="_blank"}, C.Agret, B.Cazaux, A.Limasset 
 - 2020 [Redoak: a reference-free and alignment-free structure for indexing a collection of similar genomes](https://www.biorxiv.org/content/early/2020/12/21/2020.12.19.423583),C.Agret, A.Chateau, G.Droc, G.Sarah, A.Mancheron,  M.Ruiz.
 
 
