@@ -44,38 +44,38 @@ genomes: application to rice.
 
 
 # Journal Publications
+## International publications
+- 2022  [RedOak: a reference-free and alignment-free structure for indexing a collection of similar genomes](https://doi.org/10.21105/)
+Clément Agret, Annie Chateau, Gaetan Droc, Gautier Sarah, Manuel Ruiz et Alban Mancheron.
 - 2018 [Next generation sequencing elucidates cocoa badna virus diversity and reveals the existence of more than ten viral species.](https://linkinghub.elsevier.com/retrieve/pii/S0168170217306743), E.Muller, S.Ravel, C.Agret, F.Abrokwah, H.Dzahini-Obiatey, I.Galyuon, K.Kouakou, E.C.Jeyaseelan,
 J.Allainguillaume, A.Wetten.
 
+## International conferences with published proceedings
+- 2022 [ Toward Optimal Fingerprint Indexing for Large Scale Genomics](https://drops.dagstuhl.de/opus/volltexte/2022/17059/)
+Clément Agret, Bastien Cazaux, Antoine Limasset
 
 # Communications
 ## Invited talks
-- 2020 TODO
-- 2017 Machine learning science popularization of supervised and unsupervised learning, MAB team seminar, LIRMM Montpellier (France)
-- 2017 TODO, Cirad, Montpellier (France)
-
+- 2020 Thesis defense : [Thesis](https://www.theses.fr/s190956)
+- 2019 When RedOak™ draws trees : [Slides](https://www.genomeharvest.fr/results/seminars)
+- 2018 Presentation of a tool in development for indexing a large collection of genomes unassembled :  [Slides](https://www.genomeharvest.fr/results/seminars)
+- 2017 Pangenome Indexing Structure applied to rice, https://www.genomeharvest.fr/results/
 
 ## Conferences
-- 2020 [Todo _k_-mer index](todo.todo)
+- 2022 Clement Agret, Annie Chateau,and Alban Mancheron. Comptage massif et distribué de k-mers [Proceedings](https://jobim2022.sciencesconf.org/data/pages/JOBIM2022_proceedings_posters_demos.pdf)
+- 2018 Development of indexing compressed structure for analyzing a large collection of similar genomes: application to rice : [Proceedings](http://bioinfo.univ-rouen.fr/seqbio2018/proceedings.pdf)
+- 2017 Compressed structure for analyzing a collection of similar genomes: application to rice, [Abstracts](https://bioinfo.cristal.univ-lille.fr/seqbio2017/seqbio_abstracts.pdf)
+- 2017 Machine learning science popularization of supervised and unsupervised learning, MAB team seminar, LIRMM Montpellier (France)
 
 
 ## Other
-- 2020 Co-organization of the Open Days of Biology, Computer Science and Mathematics Congress of 30
-June to July 3, 2020. I helped with logistics management and I was a support in the evaluation of productions
+- 2020 Co-organization of the Open Days of Biology, Computer Science and Mathematics Congress of 30 June to July 3, 2020. I helped with logistics management and I was a support in the evaluation of productions
 scientists. https://jobim2020.sciencesconf.org/
-- 2018 Co-creator and co-organizer and Agapiades. This is the first symposium organized by the doctoral
-rants from Agap for the personnel of the various research centers of Cirad, INRA, IRD,
-CNRS and SupAgro. I took care of the general organization, the communication and proofreading part
-scientific productions.[Agapiades](https://agapiades.sciencesconf.org/)
-- 2016 Co-organizer of Montpellier Omics days 2016 (MOD2016). MODs are a scientific event.
-tific organized by master's students for biologists and bioinformatics scientists. The days-
-born are generally divided into two days, a day of colloquium and one or two days of training. In
-- 2016 Co-organized the MODs, I actively chose the subject and the participants, with Y.COGNE and A.VERDIER
-we prepared and gave training on <<From Linux to Differential Gene Analysis (DESeq2)>>. [MOD2016](https://mod2016.wordpress.com/)
-- 2014 Co-creator, then president of the AsTICo association of the Master Sciences and Digital for Health.
-The purpose of this association is to create a directory of alumni to allow inter-generational communication.
-nationally, facilitate the organization of scientific events such as MODs, and facilitate the exchange of
-course support between teachers and students. (AsTICo)[http://www.astico.fr/]
+- 2018 Co-creator and co-organizer and Agapiades. This is the first symposium organized by the doctoral rants from Agap for the personnel of the various research centers of Cirad, INRA, IRD,
+CNRS and SupAgro. I took care of the general organization, the communication and proofreading part scientific productions.[Agapiades](https://agapiades.sciencesconf.org/)
+- 2016 Co-organizer of Montpellier Omics days 2016 (MOD2016). MODs are a scientific event organized by master's students for biologists and bioinformatics scientists. The days born are generally divided into two days, a day of colloquium and one or two days of training. 
+- 2016 Co-organized the MODs, I actively chose the subject and the participants, with Y.COGNE and A.VERDIER we prepared and gave training on From Linux to Differential Gene Analysis (DESeq2). [MOD2016](https://mod2016.wordpress.com/)
+- 2014 Co-creator, then president of the AsTICo association of the Master Sciences and Digital for Health. The purpose of this association is to create a directory of alumni to allow inter-generational communication. Nationally, facilitate the organization of scientific events such as MODs, and facilitate the exchange of course support between teachers and students. [AsTICo][http://www.astico.fr/]
 
 
 # Supervision
