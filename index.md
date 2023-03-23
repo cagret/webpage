@@ -1,4 +1,4 @@
-# Biograpgy
+# Biography
 I am a temporary **research and teaching assistant in [MIDI](https://www.etis-lab.fr/la-recherche/equipe-midi/) team (Etis,Cergy Pontoise, France)**. 
 My work focuses on **methods and data structures** in **sequence bioinformatics**, with applications to **pangenome** in particular.
 
