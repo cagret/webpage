@@ -14,43 +14,46 @@ Situation professionnelle : Enseignant contractuel à CY Cergy Paris Université
 
 ### CY Cergy Paris Université
 
-*PRAG contractuel en informatique* | *2021-2025*
+*PRAG contractuel en informatique* | *2021-2025* | 800h eq TD
 
 - Programation orienté objet avancée : 75h eq TD en anglais
 - Image processing : 45h eq TD
 - Réseaux : 45h eq TD
 
-### Entreprise 2
+### Polytech Lille - CRIStAL
 
-*Titre du poste* | *Période*
+*Attaché Temporaire d’Enseignement et Recherche* | *2020-2021* | 192h eq TD
 
-- Responsabilité 1
-- Responsabilité 2
-- Responsabilité 3
+- Programmation avancée : 63h eq TD
+- Systèmes d’Exploitation : 42h eq TD
+- Tests et maintenance logicielle : 22h eq TD
+
+### IUT Sète-Montpellier - Lirmm
+
+*Attaché Temporaire d’Enseignement et Recherche* | *2019-2020* | 192h eq TD
+
+- L'interaction homme-machine (IHM) : 96h eq TD
+- Réseau : 28h eq TD
+- Tests & validations : 12h eq TD
 
 ## Formation
 
 ### Diplôme universitaire
 
-*Nom de l'établissement* | *Année*
+*Université de Montpellier* | *2014-2016*
+- Sciences et Numérique pour la santé
+- Bioinformatique
 
-- Mention
-- Domaine d'études
-
-## Compétences
-
-- Compétence 1
-- Compétence 2
-- Compétence 3
+*Université de Montpellier* | *2013-2014*
+- Licence Informatique
 
 ## Langues
 
-- Langue 1 : niveau
-- Langue 2 : niveau
-- Langue 3 : niveau
+- Français : Langue maternelle
+- Anglais : C1
+- Espagnol : A1
 
 ## Certifications
 
-- Certification 1
-- Certification 2
-- Certification 3
+- Qualification Maître de conférences : - Conseil National des Universités (C.N.U) 27
+- 13 octobre 2022 - Doctorat en Bioinformatique
