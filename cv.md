@@ -17,6 +17,7 @@ Situation professionnelle : Enseignant contractuel à CY Cergy Paris Université
 *PRAG contractuel en informatique* | *2021-2025* | 800h eq TD
 
 - Programation orienté objet avancée : 75h eq TD en anglais
+- Cloud computing (Français et Anglais) : 75h eq TD
 - Image processing : 45h eq TD
 - Réseaux : 45h eq TD
 
