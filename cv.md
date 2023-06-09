@@ -56,4 +56,4 @@ Situation professionnelle : Enseignant contractuel à CY Cergy Paris Université
 ## Certifications
 
 - Qualification Maître de conférences : - Conseil National des Universités (C.N.U) 27
-- 13 octobre 2022 - Doctorat en Bioinformatique
+- 13 octobre 2020 - Doctorat en Bioinformatique
