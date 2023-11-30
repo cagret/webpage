@@ -1,3 +1,5 @@
+[Back to Home](/index.md)
+
 ---
 title: "Langages et Automates"
 layout: page
