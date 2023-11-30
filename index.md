@@ -88,8 +88,9 @@ CNRS and SupAgro. I took care of the general organization, the communication and
 ## Zhejiang University of Science - ZUST
 
 ### Semestre 1
+
 - [Digital Image Processing](/ZUST/Semestre1/Digital_Image_Processing)
-- [Langages Automates](/ZUST/Semestre1/Langages_Automates/Langages_Automates)
+- [Langages Automates](/ZUST/Semestre1/Langages_Automates/Langages_Automates.md)
 - [Network](/ZUST/Semestre1/Network)
 - [System Programming](/ZUST/Semestre1/System_Programming)
 
