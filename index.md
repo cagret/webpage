@@ -4,7 +4,7 @@ My work focuses on **methods and data structures** in **sequence bioinformatics*
 
 
 After a bachelor's degree in computer science and a master's degree in Science and Digital for Health,
-Bioinformatics, Knowledge, Data at the University of Montpellier, I did my PhD within
+Bioinformatics, Knowledge, Data at the University of Montpellier, I did my PhD within 
 of the GAIA doctoral school (584), between [Cirad](https://www.cirad.fr/en/){:target="_blank"} and [LIRMM](https://www.lirmm.fr/){:target="_blank"}. My thesis focuses on the development of a
 _k_-mers indexing data structure intended to support the analysis of hundreds or even thousands of similar genomes. 
 
@@ -20,28 +20,26 @@ genomes derived from sequencing, upstream or downstream of classification into f
 
 
 ## GenomeHarvest project:
-- 2019:  When RedOak™ draws trees, https://www.genomeharvest.fr/results/seminars
+- 2019: [When RedOak™ draws trees](https://www.genomeharvest.fr/results/seminars)
 - 2019: Poster: Resources to manage Rice Big Genomics Data
-- 2018: Presentation of a tool under development allowing the indexing of a large collection of
-unassembled genomes, https://www.genomeharvest.fr/results/seminars
+- 2018: [Presentation of a tool under development allowing the indexing of a large collection of
+unassembled genomes](https://www.genomeharvest.fr/results/seminars)
 - 2017: [Pangenome Indexing Structure applied to rice](https://www.genomeharvest.fr/results/seminars)
 
 
 ## SeqBIM: working group common to the GDR Molecular Bioinformatics (BIM) at the GDR Informatique
 CNRS Mathematics (IM):
-- 2018: SeqBio: Development of indexing compressed structure for analyzing a large collection of simi-
-lar genomes: application to rice, URL: http://bioinfo.univ-rouen.fr/seqbio2018/proceedings.
-pdf
-- 2017: SeqBio: Compressed structure for analyzing a collection of similar genomes: application to rice,
-URL: https://bioinfo.cristal.univ-lille.fr/seqbio2017/seqbio_abstracts.pdf
+- 2018: [SeqBio: Development of indexing compressed structure for analyzing a large collection of simi-
+lar genomes: application to rice](http://bioinfo.univ-rouen.fr/seqbio2018/proceedings.pdf)
+- 2017: [SeqBio: Compressed structure for analyzing a collection of similar genomes: application to rice](https://bioinfo.cristal.univ-lille.fr/seqbio2017/seqbio_abstracts.pdf)
 
 
 ## JOBIM: Biology, Computer Science and Mathematics Open Days, the conference of the French Society of Bioinformatics:
 - 2022: Co-organization of the mini-symposium “Indexing and Querying Large Sequencing Data Collections.”
-URL: https://jobim2022.sciencesconf.org/resource/page/id/7
+URL: [jobim2022.sciencesconf.org](https://jobim2022.sciencesconf.org/resource/page/id/7)
 - 2020: Co-organization of the Journées Ouvertes en Biologie, Informatique et Mathématiques (JOBIM) conference, held from June 30 to July 3, 2020.
 I assisted with logistics management and supported the evaluation of scientific contributions.
-URL: https://jobim2020.sciencesconf.org
+URL: [jobim2020.scienceconf.org](https://jobim2020.sciencesconf.org)
 - 2017: Poster: Development of indexing compressed structure for analyzing a collection of similar
 genomes: application to rice.
 - 2015: Poster: Use of Illumina sequencing for accessing viral genomes Cocoa swollen shoot virus
@@ -66,7 +64,7 @@ Clément Agret, Bastien Cazaux, Antoine Limasset
 - 2020 Thesis defense : [Thesis](https://www.theses.fr/s190956)
 - 2019 When RedOak™ draws trees : [Slides](https://www.genomeharvest.fr/results/seminars)
 - 2018 Presentation of a tool in development for indexing a large collection of genomes unassembled :  [Slides](https://www.genomeharvest.fr/results/seminars)
-- 2017 Pangenome Indexing Structure applied to rice, https://www.genomeharvest.fr/results/
+- 2017 Pangenome Indexing Structure applied to rice, [Genomeharvest](https://www.genomeharvest.fr/results/)
 
 ## Conferences
 - 2022 Clement Agret, Annie Chateau,and Alban Mancheron. Comptage massif et distribué de k-mers [Proceedings](https://jobim2022.sciencesconf.org/data/pages/JOBIM2022_proceedings_posters_demos.pdf)
@@ -77,12 +75,12 @@ Clément Agret, Bastien Cazaux, Antoine Limasset
 
 ## Other
 - 2020 Co-organization of the Open Days of Biology, Computer Science and Mathematics Congress of 30 June to July 3, 2020. I helped with logistics management and I was a support in the evaluation of productions
-scientists. https://jobim2020.sciencesconf.org/
+scientists. [Jobim](https://jobim2020.sciencesconf.org/)
 - 2018 Co-creator and co-organizer and Agapiades. This is the first symposium organized by the doctoral rants from Agap for the personnel of the various research centers of Cirad, INRA, IRD,
 CNRS and SupAgro. I took care of the general organization, the communication and proofreading part scientific productions.[Agapiades](https://agapiades.sciencesconf.org/)
 - 2016 Co-organizer of Montpellier Omics days 2016 (MOD2016). MODs are a scientific event organized by master's students for biologists and bioinformatics scientists. The days born are generally divided into two days, a day of colloquium and one or two days of training. 
 - 2016 Co-organized the MODs, I actively chose the subject and the participants, with Y.COGNE and A.VERDIER we prepared and gave training on From Linux to Differential Gene Analysis (DESeq2). [MOD2016](https://mod2016.wordpress.com/)
-- 2014 Co-creator, then president of the AsTICo association of the Master Sciences and Digital for Health. The purpose of this association is to create a directory of alumni to allow inter-generational communication. Nationally, facilitate the organization of scientific events such as MODs, and facilitate the exchange of course support between teachers and students. [AsTICo][http://www.astico.fr/]
+- 2014 Co-creator, then president of the AsTICo association of the Master Sciences and Digital for Health. The purpose of this association is to create a directory of alumni to allow inter-generational communication. Nationally, facilitate the organization of scientific events such as MODs, and facilitate the exchange of course support between teachers and students. [AsTICo](http://www.astico.fr/)
 
 
 # Supervision
