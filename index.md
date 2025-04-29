@@ -111,7 +111,6 @@ CNRS and SupAgro. I took care of the general organization, the communication and
 
 ### Semestre 2
 - [OOP](UoM/Semestre2/OOP)
-- [OOP](UoM/Semestre2/OOP)
 
 ## University of Cergy Paris - CYU
 ### Semestre 2
