@@ -119,19 +119,20 @@ CNRS and SupAgro. I took care of the general organization, the communication and
 - [Programmation Python](/CYU/Semestre2/PP)
 
 
-| Établissement                        | Volume                          | Total  |
-|--------------------------------------|---------------------------------|--------|
-| CY Cergy Paris Université Polytech   | Enseignant Contractuel 4*400    |  1600h |
-| Lille                                | ATER 191 + 10                   |   201h |
-| IUT de Montpellier-Sète              | ATER 207 + 3                    |   210h |
-| Faculté des Sciences de Montpellier  | 80+58+52                        |   190h |
-| Total                                |                                 | 2201h  |
+| Institution                          | Workload Description            | Total  |
+|--------------------------------------|----------------------------------|--------|
+| CY Cergy Paris Université / Polytech | Contract Lecturer 4×400         | 1600h  |
+| Lille                                | ATER 191 + 10                   |  201h  |
+| IUT of Montpellier-Sète              | ATER 207 + 3                    |  210h  |
+| Faculty of Sciences, Montpellier     | 80 + 58 + 52                    |  190h  |
+| Total                                |                                  | 2201h  |
+
 
 
 
 ## Teaching Activities
 
-Status                 | Institution                            | Year(s)     | Level        | Subject(s)                                                              | Teaching hours                                                                                                                                                            | Class size                                                                                      | Notes                                                                                                             |
+|Status                 | Institution                            | Year(s)     | Level        | Subject(s)                                                              | Teaching hours                                                                                                                                                            | Class size                                                                                      | Notes                                                                                                             |
 |------------------------|----------------------------------------|-------------|--------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | Contract Lecturer      | CYU, ZUST, UoM                         | 2021–2025   | M1, L3       | Operating Systems, Formal Languages, Cloud Computing, ...                | 30h, 45h, 82.5h, 75h, 37.5h, 45h, 37.5h, 45h                                                                                         | 1×60, 1×60, 1×60, 1×20, 1×20, 1×55, 1×20, 1×55                                                  | Course management or design, tutorials, practicals, exams depending on the course                                |
 | ATER                   | Polytech Lille                          | 2020–2021   | M1, L3       | Databases, Advanced Programming, Algorithms, OS, etc.                    | 12h, 63h, 20h, 42h, 12h, 20h, 22h, 10h                                                                                               | 1×15, 1×15, 1×15, 1×50, 1×16, 2×25, 1×15, 2×1                                                  | Management or design depending on the course                                                  |
