@@ -14,8 +14,9 @@ genomes derived from sequencing, upstream or downstream of classification into f
 ([detailed cv](cv.md){:target="_blank"}).
 
 # Ongoing work
-- 2021 [Toward optimal fingerprint indexing for large scale genomics](https://www.biorxiv.org/content/biorxiv/early/2021/11/05/2021.11.04.467355.full.pdf){:target="_blank"}, C.Agret, B.Cazaux, A.Limasset 
-- 2020 [Redoak: a reference-free and alignment-free structure for indexing a collection of similar genomes](https://www.biorxiv.org/content/early/2020/12/21/2020.12.19.423583),C.Agret, A.Chateau, G.Droc, G.Sarah, A.Mancheron,  M.Ruiz.
+- 2025: HLX: Implementation and evaluation of the HyperLogLog family of algorithms (HL2, HL3, HL4)
+- 2025: BijectHash: Generation of permutations of kmers and encoding into unique integers
+- 2025: Use and adaptation of kmer-based methods to detect precise fusions in myelomas/lymphomas
 
 
 ## GenomeHarvest project:
@@ -35,8 +36,12 @@ pdf
 URL: https://bioinfo.cristal.univ-lille.fr/seqbio2017/seqbio_abstracts.pdf
 
 
-## JOBIM: Biology, Computer Science and Mathematics Open Days, the conference of the French Society
-of Bioinformatics:
+## JOBIM: Biology, Computer Science and Mathematics Open Days, the conference of the French Society of Bioinformatics:
+- 2022: Co-organization of the mini-symposium “Indexing and Querying Large Sequencing Data Collections.”
+URL: https://jobim2022.sciencesconf.org/resource/page/id/7
+- 2020: Co-organization of the Journées Ouvertes en Biologie, Informatique et Mathématiques (JOBIM) conference, held from June 30 to July 3, 2020.
+I assisted with logistics management and supported the evaluation of scientific contributions.
+URL: https://jobim2020.sciencesconf.org
 - 2017: Poster: Development of indexing compressed structure for analyzing a collection of similar
 genomes: application to rice.
 - 2015: Poster: Use of Illumina sequencing for accessing viral genomes Cocoa swollen shoot virus
@@ -45,6 +50,8 @@ genomes: application to rice.
 
 # Journal Publications
 ## International publications
+- 2024 [Evaluating k-mer Transformations for Cache Coherence and Uniformity](https://doi.org/10.5281/zenodo.10870713)
+Clément Agret, Annie Chateau, Camille Marchet, Alban Mancheron et Antoine Limasset. 
 - 2022  [RedOak: a reference-free and alignment-free structure for indexing a collection of similar genomes](https://doi.org/10.21105/)
 Clément Agret, Annie Chateau, Gaetan Droc, Gautier Sarah, Manuel Ruiz et Alban Mancheron.
 - 2018 [Next generation sequencing elucidates cocoa badna virus diversity and reveals the existence of more than ten viral species.](https://linkinghub.elsevier.com/retrieve/pii/S0168170217306743), E.Muller, S.Ravel, C.Agret, F.Abrokwah, H.Dzahini-Obiatey, I.Galyuon, K.Kouakou, E.C.Jeyaseelan,
