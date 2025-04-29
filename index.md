@@ -102,30 +102,29 @@ CNRS and SupAgro. I took care of the general organization, the communication and
 - [System Programming](/ZUST/Semestre1/System_Programming)
 
 ### Semestre 2
-- [Cloud](/ZUST/Semestre2/Cloud)
+- [Cloud Computing](/ZUST/Semestre2/Cloud)
+- [Artificial Intelligence](/ZUST/Semestre2/AI)
+- [Programming and Algorithms II](ZUST/Semestre2/PA2)
 
 ## University of Mauritius - UoM
 ### Semestre 1
-### Semestre 2
+- [Cloud Computing](UoM/Semestre2/Cloud)
+- [Introduction to Data Science](UoM/Semestre2/DS)
 
-<table>
-  <tr>
-    <th>Year</th><th>Level</th><th>Topic</th>
-  </tr>
-   <tr>
-    <td>TODO</td>
-  </tr>
-   <tr>
-    <td>2014/2015</td><td>TODO</td>
-  </tr>
-</table>
- 
+### Semestre 2
+- [OOP](UoM/Semestre2/OOP)
+- [OOP](UoM/Semestre2/OOP)
+## University of Cergy Paris - CYU
+### Semestre 2
+- [IED](/CYU/Semestre2/IED)
+- [Programmation Python] (/CYU/Semestre2/PP)
+
 
 | Établissement                        | Volume                          | Total  |
 |--------------------------------------|---------------------------------|--------|
-| CY Cergy Paris Université Polytech   | Enseignant Contractuel 800h     |        |
+| CY Cergy Paris Université Polytech   | Enseignant Contractuel 1600h    |        |
 | Lille                                | ATER 191 + 10 201h              |        |
 | IUT de Montpellier-Sète              | ATER 207 + 3 210h               |        |
 | Faculté des Sciences de Montpellier  | 80+58+52 190h                   |        |
-| Total                                |                                 | 1401h  |
+| Total                                |                                 | 2201h  |
 
